@@ -1,1 +1,10 @@
-{}
+{
+    "bot_token": "...",
+    "logs_channel_id": "...",
+
+    "prefix": "$",
+    "command_name": "start",
+
+    "give_role": true,
+    "role_name": "ROLE-NAME-HERE"
+}

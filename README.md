@@ -1,3 +1,5 @@
+(This project will soon be continued)
+
 # Discord-Microsoft-Scam
 Sends a verify code to your email from microsoft
 
